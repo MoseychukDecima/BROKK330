@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2595S-5.0_NOPB
+D SIMPLE SWITCHER Power Converter 150 KHz 1A Step-Down Voltage Regulator
+K
+F http://www.ti.com/lit/ds/symlink/lm2595.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LM2595S-5_0_NOPB"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-10-10-19:52:51)
+    (mountForm default
+        (footprintRef "TO170P1435X465-6N")
+        (spec "System")
+    )
+)

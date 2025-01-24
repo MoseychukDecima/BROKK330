@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM2595S_5.0_NOPB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LM2595S-5.0/NOPB" (!) = "", "TO170P1435X465-6N", "TO-XXX (Inc. DPAK)", "926-LM2595S-5.0/NOPB", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2595S-5.0-NOPB?qs=X1J7HmVL2ZFz8M1B7RKk%252BA%3D%3D", "LM2595S-5.0/NOPB", "https://www.arrow.com/en/products/lm2595s-5.0nopb/texas-instruments?region=nac", "SIMPLE SWITCHER Power Converter 150 KHz 1A Step-Down Voltage Regulator", "http://www.ti.com/lit/ds/symlink/lm2595.pdf", "4.65 mm"
+END_PART
+
+END.

@@ -1,0 +1,18 @@
+.LM2595S-5.0_NOPB :1 ;SIMPLE SWITCHER Power Converter 150 KHz 1A Step-Down Voltage Regulator
+TO170P1435X465-6N
+*STM IC
+*NGS
+*PLB 1="OUTPUT" 2="VIN" 3="GROUND" 4="FEEDBACK" 5="'ON'/OFF" 6="GND_(TAB)"
+*MXP 6
+*DFN LM2595S-5.0_NOPB
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM2595S-5.0/NOPB)
+~!Mouser Part Number (926-LM2595S-5.0/NOPB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2595S-5.0-NOPB?qs=X1J7HmVL2ZFz8M1B7RKk%252BA%3D%3D)
+~!Arrow Part Number (LM2595S-5.0/NOPB)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/lm2595s-5.0nopb/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/lm2595.pdf)
+~!Height (4.65mm)
+~!3D_Model (LM2595S-5.0_NOPB)
+LM2595S-5.0_NOPB
+1.1!Y 2.1!I 3.1!U 4.1!U 5.1!U 6.1!G 
